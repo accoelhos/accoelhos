@@ -1,9 +1,8 @@
 <h1 align="center"> Welcome to my GitHub profile! </h1>
 <h2> About me </h2>
-* I'm Ana Carolina and I'm a chemistry technician at IFRJ.
-* Because of my passion for the dev world, I am studying computer science at CEFET/RJ.
-* I am a member of the data analysis laboratory (DAL) at CEFET/RJ, currently developing a website for Special Issues working with Python.
-* My objectives are continue learning and improving my skills in different programming languages.
+            * Because of my passion for the dev world, I am studying **computer science** at CEFET/RJ.
+            * I am a member of the data analysis laboratory (DAL) at CEFET/RJ, currently **developing a website for Special Issues** working with Python.
+            * My objectives are continue learning and improving my skills in different programming languages.
 
 ### Skills
 <div>
