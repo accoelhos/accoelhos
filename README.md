@@ -1,5 +1,6 @@
 <h1 align="center"> Welcome to my GitHub profile! </h1>
-### About me
+
+## About me
 <div>
             * Because of my passion for the dev world, I am studying **computer science** at CEFET/RJ.
             * I am a member of the data analysis laboratory (DAL) at CEFET/RJ, currently **developing a website for Special Issues** working with Python.
